@@ -1,2 +1,2 @@
-# acad-C-work
-academy C work..
+# 42 libft project
+The tests are crap. Don't rely on them.
